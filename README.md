@@ -1,3 +1,10 @@
+# Password-Manager
+
+This is a simple password manager coded in Python to store all your passwords locally. 
+It is encrypted with a key of your choice.
+It is highly efficient, light and has a stunning design. 
+It uses binary files to store the data and keys. 
+
 
 INSTRUCTIONS:
 
