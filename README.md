@@ -1,4 +1,4 @@
-# Password-Manager
+# Password Manager
 
 This is a simple password manager coded in Python to store all your passwords locally. 
 It is encrypted with a key of your choice.
